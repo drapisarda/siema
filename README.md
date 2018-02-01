@@ -84,6 +84,9 @@ Touch and mouse dragging threshold (in px) [(example)](http://codepen.io/pawelgr
 **`loop`** (boolean)  
 Loop the slides around [(example)](http://codepen.io/pawelgrzybek/pen/zwOrKN).
 
+**`bullets`** (boolean)  
+Adds navigation bullets to the slider
+
 **`onInit`** (function)  
 Runs immediately after initialization [(example)](http://codepen.io/pawelgrzybek/pen/BRBjpE).
 
